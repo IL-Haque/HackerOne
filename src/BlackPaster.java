@@ -20,7 +20,7 @@ public class BlackPaster {
                 temp = temp / 10;
                 count ++;
             }
-        }
+         }
         System.out.printf("%d",+count);
     }
 }
